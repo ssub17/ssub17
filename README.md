@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" height="43" />
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=NAVER&logoColor=white"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" height="43" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" height="43" />
