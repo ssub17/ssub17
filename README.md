@@ -9,14 +9,17 @@
 #### 🎓 Bachelor of Computer Science, University of Seoul
 <br/>
 
-  ### ⚙️ Tech Stack 
+### ⚙️ Tech Stack 
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <br>
+</p>
 
+<p>
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" height="43" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" height="43" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" height="43" />
-  <br><br>
+</p>
+<br>
