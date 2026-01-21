@@ -6,7 +6,7 @@
 
 ## 👀 About Me
 #### 🔥 I aim to become a Cloud Engineer.
-#### 🎓 Bachelor of Computer Science, University of Seoul
+#### 🎓 Candidate in Computer Science, University of Seoul
 <br/>
 
 ### ⚙️ Tech Stack 
