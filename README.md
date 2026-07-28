@@ -4,12 +4,12 @@
 
 <br/>
 
-# Soobeen Son · Aspiring DevOps Engineer
+# Soobeen Son
 
 <br>
 
 ### Contact
-<img src="https://img.shields.io/badge/[soobeenson23@gmail.com]-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/soobeenson23@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/soobeenson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 <br>
