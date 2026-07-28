@@ -34,6 +34,3 @@
 
 **Infra / DevOps**
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=Tailscale&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=NAVER&logoColor=white"/>
-
-**Currently Learning**
-<img src="https://img.shields.io/badge/AWS%20심화-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
