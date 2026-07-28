@@ -2,13 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%2C%20I%27m%20Soobeen%20👋" width="100%" />
 </div>
 
-<br/>
-
-# Soobeen Son
-
-<br>
-
-### Contact
+## Contact
 <img src="https://img.shields.io/badge/soobeenson23@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/soobeenson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
